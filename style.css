@@ -8,10 +8,7 @@
 	height: 100vh;
 	width: 100vw;
 	background: url('./background-img.png') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+       background-size: cover;
 }
 .bird {
 	height: 70px;
@@ -53,8 +50,6 @@
 	font-size: 10vh;
 	font-weight: 100;
 	color: white;
-	-webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
 	top: 0;
 	left: 0;
 	margin: 10px;
